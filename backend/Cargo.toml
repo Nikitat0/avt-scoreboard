@@ -1,0 +1,5 @@
+[package]
+name = "avt-scoreboard"
+edition = "2021"
+
+[dependencies]
